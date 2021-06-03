@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter vvritten to a friend declaring his opinion being such tenents as are contrary to the doctrine of the Church of England and of all the reformed churches : yea, and the universall church in all ages : which opinions are worthy of learned mens consideration and confutation.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25924</idno><idno type="EEBO-CITATION">12179453</idno>
+  <idno type="VID">197084</idno>
+  <idno type="EEBO-PROQUEST">2240953946</idno>
+  
+            <idno type="STC">Wing L1768</idno>
+            <idno type="OCLC">12179453</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197084)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E91, no 22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter vvritten to a friend declaring his opinion being such tenents as are contrary to the doctrine of the Church of England and of all the reformed churches : yea, and the universall church in all ages : which opinions are worthy of learned mens consideration and confutation.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197084:1"/>
+            <p>A LETTER VVRITTEN To a friend, <hi>DECLARING HIS</hi> OPINION, Being such tenents, as are contrary to the doctrine of the Church of England, and of all the Reformed Churches; yea, and the Universall Church in all ages: which opinions are worthy of learned mens Consideration and Confutation.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 13.25.</hi>
+               </bibl>
+               <p>While men slept, the Enemy came and sowed tares among the wheat.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2. Tim. 3.13.</hi>
+               </bibl>
+               <p>Evill doers shall wax worse and worse, deceiving and being deceived.</p>
+            </q>
+            <p>Printed in the yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197084:2"/>
+            <opener>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Oncerning that late conference that I had with you about some Papisticall doctrines, maintained by the English Pre<g ref="char:EOLhyphen"/>lates, and yet somewhat doubted by weaker bretheren (though they be not many) but is not to be wondred, for as the profane proverb saith, Rome was not built in a day, so neither will their doctrines bee suddenly rooted out of mens minds: For indeed these are part of those very doctrines, that are the very whore of Babilons wine, with which shee hath made Nations drunke, and therefore it's no marvell, though mens heads bee so intoxica<g ref="char:EOLhyphen"/>ted, that they go staggering up and downe, and know not where nor how to stand steddie in the faith, and be you assured till you leave her abomi<g ref="char:EOLhyphen"/>nations, you cannot be safe from the wrath of God, and therefore bee ad<g ref="char:EOLhyphen"/>vised by a brother who will advise you in his brother <hi>Pauls</hi> words, 2. <hi>Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 6.17. <hi>Come out from among them, and bee ye seperated, saith the Lord, and touch no uncleane thing, and I will receave you;</hi> And therefore till ye sepe<g ref="char:EOLhyphen"/>rate from the doctrines as yee do from her ceremonies, ye cannot be safe.</p>
+            <p>Now the first doctrine that I give you warning of, is about the bapti<g ref="char:EOLhyphen"/>zing Infants, of which I somewhat doubt, because it is derived from Rome: for as Master <hi>Lilborne,</hi> when hee was on the Pillory, very worthily said, that Episcopacy being derived from the Pope of Rome, was from Antichrist, and that these Ministers which exercised their functions by power received from the Bishops, did it by a power from Antichrist, from which I think may safely be concluded, that our Baptismes received by that power is from Antichrist; besides I know no difference betweene a false Church, and no Church, a false Christ and no Christ, a false Bap<g ref="char:EOLhyphen"/>tisme (which most of our bretheren say, the Baptisme received in the Church of England is) and no Baptisme: And therefore considering from whence we had our Baptisme, the goodnesse of it may very well be doubted of; besides for the Baptizing of Infants, I know not one plaine scripture for it: Moreover if we do but consider what a hurt it doth, for it's a meanes to keepe men from good lives, because most men think they were made partakers of Christ in Baptisme, and being by our best Mi<g ref="char:EOLhyphen"/>nisters
+<pb facs="tcp:197084:2"/> in their Sermons, exhorted to get Christ, their answer is, that by a covenant in Baptisme, they were made partakers of Christ, and are so bold that they will say Ministers ought not to preach to them, as if they were Pagans, and we now to become Christians, and to get Christ: but say, that Ministers should perswade them to the keeping of that Covenant and teach them how to keepe it, and so they shall be sure of Christ, but this is false doctrine, false in the very ground, though the Jewes made a cove<g ref="char:EOLhyphen"/>nant at the Circumcision to keepe the Law, <hi>Galat.</hi> 5.3. yet we Christians have no such direction from Chirst, and therefore Godfathers and God<g ref="char:EOLhyphen"/>mothers that in the Childs name make a covenant, and say, that they be<g ref="char:EOLhyphen"/>leeve the Articles of Christian Religion, and promise to forsake the world, flesh, and divell, to doe this by way of covenant, in the Childes name is without warrant, and they that procure Godfathers and Godmothers for this end, do erre, not knowing the Scriptures, nor the power of Christs death; which is not layd downe for men conditionally, if they shall be<g ref="char:EOLhyphen"/>leeve and repent, but absolutely without any conditions; And therefore I beleeve the businesse of Godfathers and Godmothers is a very foolish ceremony: For the Crosse in Baptisme, some say, that was to the old Christians a Monitory, sign or figure, to put them in mind of their promise made to God in Baptisme, in the Infancy of the Church, for want of the Spirit: it may be so, but what need we such Monitors; have we not the ho<g ref="char:EOLhyphen"/>ly Spirit which is our Monitor, therefore away with such needlesse cere<g ref="char:EOLhyphen"/>monies: And therefore for the form of words in Baptisme used by the Prelaticall Church, <hi>viz.</hi> I in the name of the Father, Sonne, and holy Ghost, Baptise thee.</p>
+            <p>Let mee bee bold to shew you a mystery, that when in a Sacrament a forme of words become a stumbling blocke, and that the truth may bee (without prejudice to the originall) expressed in other tearmes, then to avoid stumbling into other errors, the old forme may be changed, and a<g ref="char:EOLhyphen"/>nother forme of words that doth not occasion the like stumbling, may be used, as for example of this of Baptisme, out Prelaticall Ministers say, that they have a power from Christ, for the comfort of distressed penitent Soules, in the name of the Trinity to pronounce absolution from sinne: For justification of this Popish act; the Prelates alledge their forme of Bapti<g ref="char:EOLhyphen"/>zing, and say, it is no other then is there expressed; For as in the one place
+<pb facs="tcp:197084:3"/> he saith I, in the name of the Father, Sonne, and holy God, Absolve thee. So in the other, in the same name, Baptize or dip thee, for so the words sig<g ref="char:EOLhyphen"/>nifie, into Christs bloud, of which they say, the water is a signe, by which mysticall action, they say, the soule there Baptized, is cleansed from a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sinne. And moreover they say, that as a Constable in the Kings name, doth execute an office, so doe the Prela<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in the name of the Trinity, cleanse the Baptized, and Absolve the truely penitent, all which is plaine Popery: and therefore I judge it (and so do many of our bretheren also) very law<g ref="char:EOLhyphen"/>full and convenient to change the forme of words in Baptisme, and say, I Baptize thee into the Union or Unitie: By which forme is demonstrated, that the faithfull soul is made one with the Father, Sonne, and holy Ghost, which is most comfortable, and abundance of solace doth ensue to all the elect so joyned: For this union can never be broken; and besides the ex<g ref="char:EOLhyphen"/>cellency thereof doth so overwhelme the inferme actions of all such as are righ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly so Baptized, that such a Soule, notwithstanding some infirmities, appeares before God like the woman, <hi>Revel.</hi> 12. <hi>All clothed with the Sonne, the Moone under her feet, and a Crowne of</hi> 12. <hi>Sarres upon her head.</hi> So glo<g ref="char:EOLhyphen"/>rious in the sight of God, that <hi>Iohn</hi> saith, even as Christ is, so wee in this present world 1. <hi>Iohn</hi> 4.17. This is the right Baptisme of the holy Ghost, that as the body is dipped into the water, so is the soule into the Union, Essence or being of God; but this mystery I advise you not to discover to such as be carnall, least ye cast pearles before swine: and as some say this is the very seedplot of Familisme; I answer, the Spirit assures us this is a glorious seedplot for truth. I have beene the larger because I would have you well instructed in this principle.</p>
+            <p>Another thing I would have you to beware of, that you be not married by a Minister. The Papists make marriage a Sacrament, and therefore in<g ref="char:EOLhyphen"/>joyne a Priest to performe it. And our English Prelates treade in their steps, for they must have a hand in joyning men and women together, else our foolish people thinke themselves not rightly married; but I advise all that fear God to abstaine from all appearance of evil, especially in mariages have nothing to do with the Prelates; let us take our beloved for a faithfull yoak-fellow in the presence of our brethren, God requires no more.</p>
+            <p>As for churching of women, I hold it utterly unlawfull. And to ab<g ref="char:EOLhyphen"/>staine from our wives after child-bearing a full month is meere Judaisme;
+<pb facs="tcp:197084:3"/> the new Testament injoynes no such thing; and what ever is not of faith is sinne.</p>
+            <p>For the Sacrament of Christs last supper, I need not name some fopperies used at the same, as kneeling upon your knees when you receive the bread and wine, (which you have already left;) as also the taking it in the morn<g ref="char:EOLhyphen"/>ing, a custome without any warrant from Scripture. Let me in this be bold in Doctor <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stwicks</hi> words in his 14. page of a booke, intitled an answer to certaine exceptions made by a learned Gentleman, where reproving such as take it in the morning, who saith to you it cannot bee called the Lords supper, but the Lords breakfast. And so it is indeed to them, for they eate up the Lord at a breakfast, and swallow him downe whole, and make no bones of him, hee is to them but their mornings nuntioes: And after that they drink up his bloud, most sweet Canniballs; an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after this they can eate a sufficient dinner. These fellowes saith the learned Doctor must needs have good stomacks, therfore do not sympathize with the Babell brats in eating their Lord in a morning: Neither do you put off your hat in time when yee e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te the Lords Supper, for this I boldly affirme, for Christians, to put their hats off to the bread is unlawfull, and no lesse idolatry then to kneele to it: I know some will mince and make dissentions about this point, but I say let the faithfull servants of Christ flee from all appearance of I<g ref="char:EOLhyphen"/>dolatry. To sit at the Lords Supper with hats on heads, in these times, is not only lawfull but necessary, and that for the totall abolishing of all re<g ref="char:EOLhyphen"/>verence and shew of bread-worship; and wee that are the people of God have cause to praise him for manifesting truths so clearly to us; and if wee should negle<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the practizing therof, we should shew our selves ungratefull, and unworthy of so great favours.</p>
+            <p>But for that opinion of some, that thinke we ought to salute one the o<g ref="char:EOLhyphen"/>ther, with an holy kisse, at the time of eating the Lords supper, though some doe like of it, yet I wish it might bee forborne for a time, lest in the planting of our Church, some weake ones stumble: And let us remember that saying, all things that are lawfull, are not expedient. For going to their common meeting houses, remember I pray you our last discourse; for the name of the place, by any meanes never call it a Church, it is but a meeting place made of lime and stone: And for reverence, there is none due to it: And to shew any reverence is meere superstition: The
+<pb facs="tcp:197084:4"/> place differs not from our common dwellings; and truly that difference of places were done away, I could wish, and I know that many are of my mind, that either these were imployed to some other uses, and so new meeting houses built; or at least men were suffered all the weeke to buy, sell, or worke of some trades in them; for so long as any hold a reveren<g ref="char:EOLhyphen"/>tiall respect in their minds of the meeting houses, even so long a supersti<g ref="char:EOLhyphen"/>tious relique of Antichrist lodgeth in the heart, which to God we hold is abominable: And therefore I commend Master <hi>Samuel How</hi> the Cobler, and others that chose to be buried in the fields, and that by the highway side, rather then in the seperated grounds: and for Master <hi>En<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck Hewet</hi> the Glover, who buried a maid in his yard, hereby appeares the zeale of our holy brethren against such Idolized places. But for going to these hou<g ref="char:EOLhyphen"/>ses to heare the word, I am not as some of our brethren are totally against it: but if we doe go some caveats must be observed, as first we must not go in while their abominable Service is in reading. Secondly, when we do go in, let us be sure to shew no act of reverence, neither let us kneel down within their Church, (as they call it) nor when we come out let us neither bow nor put off the hat, nor use any other posture in token of reverence, that so we may have clear consciences from any act of worshipping God in their meeting houses. In the third place let us have an eye to o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thoughts, that we heare not the Preacher as a messenger sent from God but as a man exercising his gifts: And if we do observe these caveats, I think you or another may go in safely, and sometimes do good, as <hi>Paul</hi> be<g ref="char:EOLhyphen"/>came a Jew unto the Jewes, if that by any meanes he might winne some. So we by hearing their doctrines may the better judge them &amp; confute them, and so we may win some soules from them; and truly for my part I judge this a better way, then totally to forsake their Assemblies.</p>
+            <p>As for the singing of Psalmes with them, doe as you are perswaded, but know their Psalmes are no other then <hi>Davids</hi> Psalmes adulterated by men that were Poets, (yea perhaps Ballad-makers) and ye know how Poets are generally esteemed of, and therefore our Psalms as they now stand ver<g ref="char:EOLhyphen"/>sified, are little-better then humane, and you know that all humane inventi<g ref="char:EOLhyphen"/>ons in worshipping are abominable to God. That the Psalmes are not those whereof <hi>Iames</hi> speaks. <hi>Is any merry let him sing Psalms.</hi> Jam. 5.13. plainly appears, for that the right Psalms are spirituall Songs, <hi>Ephe.</hi> 5.19. of which
+<pb facs="tcp:197084:4"/> the Apostle speakes 1 <hi>Cor.</hi> 14.15. where the words are, <hi>I will pray with the spirit and pray with the understanding also. I will sing with the Spirt, and sing with the understanding also.</hi> By which place it appeareth that book Psalmes are no more lawfull then book prayers, which we all judge unlawfull. But as Doctrines, Revelations, Interpretations, and strange tongues were by in<g ref="char:EOLhyphen"/>spiration from God by his Spirit; so were Psalmes also: for which see 1 <hi>Cor.</hi> 14.26. Therefore I conclude it is not lawfull to sing Psalmes with<g ref="char:EOLhyphen"/>out the Spirits inspiration; but because all our brethren are not thus mind<g ref="char:EOLhyphen"/>ed, I leave it to their discretions, till they be further instructed in this truth; In the mean time let as many as be thus minded walk by this rule, and peace be upon them, and upon the Israell of God. I have said the more against this carnall Psalme singing to move you to presse on to more new truths, that you may serve God in newnesse of Spirit like a Chri<g ref="char:EOLhyphen"/>stian, and not in oldnesse of Letter like a Jew.</p>
+            <p>As for burialls of the dead, I need not say any thing of that, for your self is well satisfied, how not any thing about it belongs to a Minister, no more then to marriages, neither praying nor reading, nor ought else, there is no footing in Scripture for either: and therefore brother, be not dismayed, at the jeeres and mocks of the Ishmaelites, that scoffingly said we bury our brethren as we burie dogs, cats, or stinking carcases of beasts, and that in open fields, tush, God knoweth our hearts, and we must bear their scoffes till bodily observations, and Superstitious customes be done away, which I hope will be ere long; and that naked truths without Ceremonies shall flourish: and so be not cast down, you shall see Satan in his instruments shortly troden under our feet, when we shall be made Princes in all nations then we shall bind Kings in chaines and Nobles in fetters of iron; such ho<g ref="char:EOLhyphen"/>nour the Saints shall have, and that is it we hope and wait for.</p>
+            <p>As for the oath of Supremacy, <hi>(viz)</hi> that one should sweare the King is supreme in causes Ecclesiasticall, is a most vile and unlawful oath, contra<g ref="char:EOLhyphen"/>ry to fundamentall truth, and the very nature of true churches, whose su<g ref="char:EOLhyphen"/>preme government rest not in any one particular person, as Pope or King, but solely and alone, joyntly in all the members of every independent con<g ref="char:EOLhyphen"/>gregation, and therefore we hope that oath will be altered, of which I shall not need to write any more.</p>
+            <p>I have some other things to write of, as about the Scriptures, which is the
+<pb facs="tcp:197084:5"/> right and which is not, and how they may be discerned by the Spirit, as al<g ref="char:EOLhyphen"/>so about the Creeds as some call them, the Athanasian &amp; Apostles Creed, neither of them good: the Athanasian Creed hath no lesse then blasphemy in it, and the other palpable untruths. That which was made by Good<g ref="char:EOLhyphen"/>man <hi>Turner, viz.</hi> the Saints belief, is worth them both. So desiring you to strive on to the attaining of more new truths, I commit you to him that is able to make you perfect.</p>
+         </div>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <p>IF you desire the Saints belief, made the last year by our brother <hi>Turner,</hi> it was printed for <hi>William Larner,</hi> and were to be sold by the Authour in Pauls chain: in which is intimated how Goodman <hi>Turner</hi> had been im<g ref="char:EOLhyphen"/>prisoned by the Bishops near 14 years. O wicked Bishops to imprison such a man, that in the first yeare after the Bishops lost their power, made us a Creed. O how it vexed them when they saw it, and heard that our three brethren the <hi>Blackwell-Hall</hi> men, that were imprisoned the last year in the Westcountrey, for saying there is blasphemy in the Athanasian Creed, and that they were presently released: I warrant you, they even gnashed their teeth for anger, but their wings are now clipped. <hi>Halleluia, Halleluia.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
